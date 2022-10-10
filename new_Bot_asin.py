@@ -2,7 +2,7 @@ from aiogram import Bot, Dispatcher, types
 from aiogram.utils import executor
 from aiogram.types import ContentType, Message, InputFile
 from slovar_polit_slov import slov_polit_slov_chek
-from token_asinBot import token
+from токены.token_asinBot import token
 from slosar_mat_slov import *
 
 text_mat = ''
